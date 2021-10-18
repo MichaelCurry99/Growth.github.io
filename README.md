@@ -20,4 +20,4 @@ Contact Information: Michael_Curry99@outlook.com
 
 Bio: Student, CodeCrew Coding School
 
-![My Profile Picture](https://scontent.fmem1-2.fna.fbcdn.net/v/t39.30808-6/238854603_4158310797594837_558865989492051096_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=UTN9ntmh4PIAX9fHxnR&_nc_ht=scontent.fmem1-2.fna&oh=f22aca6bc0c97a37f472b2b2bd3f103b&oe=616FBAF8) 
+![My Profile Picture](https://scontent.fmem1-2.fna.fbcdn.net/v/t39.30808-6/238854603_4158310797594837_558865989492051096_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=UTN9ntmh4PIAX9fHxnR&_nc_ht=scontent.fmem1-2.fna&oh=f22aca6bc0c97a37f472b2b2bd3f103b&oe=616FBAF8)
