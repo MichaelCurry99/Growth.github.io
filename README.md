@@ -1,4 +1,4 @@
-# How to Maintain a Growth Mindset 
+# How to Maintain a Growth Mindset
 
 
 Hello, my name is Michael, and **I will give as much information** of  what it is to have a growth mindset.
