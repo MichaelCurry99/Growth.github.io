@@ -15,3 +15,6 @@ a person Grow into the mindset by not giving up, which is essential in order to 
 **Focus** for whatever task that must be completed, so that things become much smoother. When we have Focus, we can't let other things distract us in order to have the potential
 of further growth. For me, I think that these three words help a person to become more motivated in there assignments, goals, and accomplishments, as well to complete the Growth
 Mindset that is needed to succeed.
+
+Portfolio:
+https://github.com/MichaelCurry99
