@@ -16,5 +16,7 @@ a person Grow into the mindset by not giving up, which is essential in order to 
 of further growth. For me, I think that these three words help a person to become more motivated in there assignments, goals, and accomplishments, as well to complete the Growth
 Mindset that is needed to succeed.
 
+![images](https://metrifit.com/wp-content/uploads/2020/08/growthmindsetlandscape.jpg)
+
 Portfolio:
 https://github.com/MichaelCurry99
