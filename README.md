@@ -8,6 +8,8 @@ get through anything you're trying to do. It takes a lot of discipline in order 
 you have a Fixed Mindset. This Mindset will keep you from completing tasks much faster than a person that would have a mindset of effort
 and persistance. 
 
+![images](https://metrifit.com/wp-content/uploads/2020/08/growthmindsetlandscape.jpg)
+
 For myself, in order to keep a Growth Mindset, there must be three things that I must keep to continue thinking this way. So when it comes to completing a
 goal, the first thing to add to your mindest is **Persistance**. There is nothing better than completing anything without Persistance and it is the engine that
 runs to what it means to have a growth mindset. Now that you have Persistance, you should also have effort put into what it is that you do. **Effort** is what makes
@@ -16,7 +18,8 @@ a person Grow into the mindset by not giving up, which is essential in order to 
 of further growth. For me, I think that these three words help a person to become more motivated in there assignments, goals, and accomplishments, as well to complete the Growth
 Mindset that is needed to succeed.
 
-![images](https://metrifit.com/wp-content/uploads/2020/08/growthmindsetlandscape.jpg)
+
+
 
 Portfolio:
 https://github.com/MichaelCurry99
