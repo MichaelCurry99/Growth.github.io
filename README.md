@@ -23,3 +23,5 @@ Mindset that is needed to succeed.
 
 Portfolio:
 https://github.com/MichaelCurry99
+
+[Page 2: What I’ve Learned About Repos](https://michaelcurry99.github.io/Learning.github.io/) ➡
